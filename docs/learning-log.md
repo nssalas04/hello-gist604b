@@ -5,19 +5,17 @@
 
 ## What I Learned
 In this assignment, I learned:
-- [Describe 2-3 key things you learned about GitHub]
-- How to create a repository
-- How to create files in a repository
-- How to test python code
-- 
-- [How Issues help teams collaborate]
-- [Why documentation matters in open source projects]
+- How to create a repository and create files within
+- How to re-run workflows
+- How to submit bugs, enhancements and documentation issues
+- Issues helps teammates collaborate by providing a clear and simple method of discussing issues with a workflow regarding specific topics.
+- Documentation is important to understand what has been done with the repository and any changes that have been made to the workflow.
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+I had trouble figuring out the GitHub Actions. It took me awhile to realize where I needed to re-run the action, but now that I know where its at and how to get to that point, it should not be a problem. 
 
 ## Connection to My GIS Career
-[Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
+GitHub skills are important to my GIS career because collaboration is a big component. It allows people to contribute to a project in different ways. This assignment also mirrors real projects and it will help me grow in that aspect.
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
