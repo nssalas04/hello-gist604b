@@ -1,11 +1,15 @@
 # Learning Log - M1A3 GitHub Repository Management
 
 **Student:** Nicholas Salas  
-**Date:** [Today's Date]
+**Date:** 10/26/25
 
 ## What I Learned
 In this assignment, I learned:
 - [Describe 2-3 key things you learned about GitHub]
+- How to create a repository
+- How to create files in a repository
+- How to test python code
+- 
 - [How Issues help teams collaborate]
 - [Why documentation matters in open source projects]
 
